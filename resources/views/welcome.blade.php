@@ -21,14 +21,20 @@
             }
 
             .full-height {
-                height: 100vh;
+                height:
+                100vh;
             }
 
             .flex-center {
-                align-items: center;
+                align-items:
+                center;
                 display: flex;
-                justify-content: center;
+                justify-content:
+
+                 center;
+
             }
+
 
             .position-ref {
                 position: relative;
